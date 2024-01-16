@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-   Myvm
+   MyVm: Lappy
 
 steps:
 - task: Maven@3
