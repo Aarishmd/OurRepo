@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-   Azure Pipelines: Hosted Agent
+
 
 steps:
 - task: Maven@3
