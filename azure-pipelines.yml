@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-   MyVm: Lappy
+   Azure Pipelines: Hosted Agent
 
 steps:
 - task: Maven@3
